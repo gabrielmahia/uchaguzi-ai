@@ -9,4 +9,4 @@ Non-partisan voter education, IEBC services, and civic rights — in Swahili.
 **Completely non-partisan — education only**
 ## Data: IEBC (iebc.or.ke) | Constitution of Kenya 2010
 ---
-*gabrielmahia.ai | CC BY-NC-ND 4.0*
+*gabrielmahia.github.io | MIT License*
