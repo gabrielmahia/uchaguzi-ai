@@ -93,4 +93,4 @@ with tab4:
         st.markdown(f'<div class="u-card">{result.replace(chr(10),"<br>")}</div>', unsafe_allow_html=True)
 
 st.markdown("---")
-st.caption("🗳️ Uchaguzi AI v1.0 | IEBC: iebc.or.ke | Habari za elimu tu — Si propaganda | CC BY-NC-ND 4.0")
+st.caption("🗳️ Uchaguzi AI v1.0 | IEBC: iebc.or.ke | Habari za elimu tu — Si propaganda | MIT")
